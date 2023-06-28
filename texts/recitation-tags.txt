@@ -1,0 +1,7 @@
+N V N
+N V NP
+NP V N
+NP V N CNJ N
+N V N V N
+N V N CNJ NP
+N V CNJ V NP

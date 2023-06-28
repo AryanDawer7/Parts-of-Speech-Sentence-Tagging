@@ -1,0 +1,7 @@
+cat chase dog
+cat watch chase
+chase get watch
+chase watch dog and cat
+dog watch cat watch dog
+cat watch watch and chase
+dog watch and chase chase
