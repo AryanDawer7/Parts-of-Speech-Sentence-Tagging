@@ -4,12 +4,8 @@ import java.io.IOException;
 import java.util.*;
 
 /**
- * Sudi is a form of intelligence model that tracks what word represents what part of speech in different ways: console, file-testing
+ * partOfSpeechTagger is a form of intelligence model that tracks what word represents what part of speech in different ways: console, file-testing
  * and hard-coding.
- *
- * @author Aryan Dawer, Dartmouth CS 10, Fall 2022
- * @author Lindsey Drumm, Dartmouth CS 10, Fall 2022
- *
  */
 
 public class partOfSpeechTagger {
